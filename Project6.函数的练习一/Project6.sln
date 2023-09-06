@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project8.递归函数练习二", "Project8.递归函数练习二\Project8.递归函数练习二.vcxproj", "{3D1C06D8-FEE1-4483-A87A-0AA9BA10FABE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project6", "Project6\Project6.vcxproj", "{1E80D8FE-46F4-4231-B41F-1022AC424FE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3D1C06D8-FEE1-4483-A87A-0AA9BA10FABE}.Debug|Win32.ActiveCfg = Debug|Win32
-		{3D1C06D8-FEE1-4483-A87A-0AA9BA10FABE}.Debug|Win32.Build.0 = Debug|Win32
-		{3D1C06D8-FEE1-4483-A87A-0AA9BA10FABE}.Release|Win32.ActiveCfg = Release|Win32
-		{3D1C06D8-FEE1-4483-A87A-0AA9BA10FABE}.Release|Win32.Build.0 = Release|Win32
+		{1E80D8FE-46F4-4231-B41F-1022AC424FE6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1E80D8FE-46F4-4231-B41F-1022AC424FE6}.Debug|Win32.Build.0 = Debug|Win32
+		{1E80D8FE-46F4-4231-B41F-1022AC424FE6}.Release|Win32.ActiveCfg = Release|Win32
+		{1E80D8FE-46F4-4231-B41F-1022AC424FE6}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

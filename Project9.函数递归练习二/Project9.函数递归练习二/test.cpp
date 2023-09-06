@@ -5,12 +5,12 @@
 int my_strlen(char* str)
 {
 	int count = 0;
-	while (*str != '\0')
+	while (*str != '\0')//排除数组中\0的情况
 	{
 		count++;
 		str++;
 	}
-	return count;
+	return count;//进行下一次计数
 }
 
 int main()
